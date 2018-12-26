@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PR2_SUM</string>
+    <string name="button">Button</string>
+    <string name="enter_two_numbers">Enter Two Numbers</string>
+</resources>
